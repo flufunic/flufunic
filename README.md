@@ -13,13 +13,11 @@
 
 ## 🌷 Tentang Saya
 
-const aku = {
-  nama: "Emma Sarkilla",
-  lokasi: "Cilacap, Indonesia 🇮🇩",
-  fokus: ["Web Development"],
-  sedangBelajar: "Laravel & React",
-  funFact: "Bisa ngoding sambil dengerin lagu sepanjang hari 🎧",
-};
+👩‍💻 **Nama:** Emma Sarkilla
+📍 **Lokasi:** Cilacap, Indonesia 🇮🇩
+🎯 **Fokus:** Web Development
+🌱 **Sedang belajar:** Laravel & React
+🎧 **Fun fact:** Bisa ngoding sambil dengerin lagu sepanjang hari
 
 ## 🎀 Tech Stack
 
