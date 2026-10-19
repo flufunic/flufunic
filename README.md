@@ -1,66 +1,60 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Nama%20Kamu&fontSize=64&fontAlignY=38&animation=twinkling&desc=Web%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ac9,50:ff69b4,100:c2185b&height=240&section=header&text=Flufunic&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Web%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=20" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Halo%2C+aku+Nama+Kamu+%F0%9F%91%8B;Suka+ngoding+dan+ngopi+%E2%98%95;Lagi+belajar+[teknologi+baru]+%F0%9F%9A%80;Yuk+kolaborasi!+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Halo%2C+aku+Flufunic+%F0%9F%8C%B8;Suka+ngoding+dan+ngopi+%E2%98%95;Lagi+belajar+hal+baru+%F0%9F%92%97;Yuk+kolaborasi!+%F0%9F%8E%80)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&logo=github&color=8a2be2" />
+<img src="https://komarev.com/ghpvc/?username=flufunic&style=for-the-badge&color=ff69b4&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/flufunic?style=for-the-badge&logo=github&color=ff85c0&labelColor=c2185b" />
 
 </div>
 
 ---
 
-## 👨‍💻 Tentang Saya
+## 🌷 Tentang Saya
 
 ```js
 const aku = {
-  nama: "Nama Kamu",
+  nama: "Flufunic",
   lokasi: "Bandung, Indonesia 🇮🇩",
-  fokus: ["Web Development", "[bidang lain]"],
-  sedangBelajar: "[teknologi]",
-  funFact: "[hal unik tentang kamu]",
+  fokus: ["Web Development", "Mobile (Flutter)"],
+  sedangBelajar: "Laravel & React",
+  funFact: "Bisa ngoding sambil dengerin lagu sepanjang hari 🎧",
 };
 ```
 
-## 🛠️ Tech Stack
+## 🎀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,docker,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,laravel,dart,flutter,git,github&theme=light" />
 </div>
 
 ## 📊 Statistik GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=flufunic&show_icons=true&hide_border=true&bg_color=2d1020&title_color=ff69b4&icon_color=ff85c0&text_color=ffd6e8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flufunic&layout=compact&hide_border=true&bg_color=2d1020&title_color=ff69b4&text_color=ffd6e8" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
-
-## 🏆 Trofi
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" />
+  <img src="https://streak-stats.demolab.com/?user=flufunic&hide_border=true&background=2d1020&ring=ff69b4&fire=ff85c0&currStreakLabel=ff69b4&sideLabels=ffb6d9&currStreakNum=ffd6e8&sideNums=ffd6e8&dates=ffb6d9" />
 </div>
 
 ## 📈 Grafik Aktivitas
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Aktivitas%20Kontribusi" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=flufunic&bg_color=2d1020&color=ff85c0&line=ff69b4&point=ffffff&area_color=ff69b4&area=true&hide_border=true&custom_title=Aktivitas%20Kontribusi" />
 
 ## 🐍 Ular Pemakan Kontribusi
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flufunic/flufunic/output/snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/flufunic/flufunic/output/snake.svg" />
 </picture>
 
-## 📫 Hubungi Saya
+## 💌 Hubungi Saya
 
 <div align="center">
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/flufunic"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-ff85c0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/flufunic"><img src="https://img.shields.io/badge/Instagram-c2185b?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ac9,50:ff69b4,100:c2185b&height=120&section=footer" />
