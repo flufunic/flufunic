@@ -13,15 +13,13 @@
 
 ## 🌷 Tentang Saya
 
-```js
 const aku = {
-  nama: "Flufunic",
-  lokasi: "Bandung, Indonesia 🇮🇩",
-  fokus: ["Web Development", "Mobile (Flutter)"],
+  nama: "Emma Sarkilla",
+  lokasi: "Cilacap, Indonesia 🇮🇩",
+  fokus: ["Web Development"],
   sedangBelajar: "Laravel & React",
   funFact: "Bisa ngoding sambil dengerin lagu sepanjang hari 🎧",
 };
-```
 
 ## 🎀 Tech Stack
 
@@ -38,9 +36,6 @@ const aku = {
   <img src="https://streak-stats.demolab.com/?user=flufunic&hide_border=true&background=2d1020&ring=ff69b4&fire=ff85c0&currStreakLabel=ff69b4&sideLabels=ffb6d9&currStreakNum=ffd6e8&sideNums=ffd6e8&dates=ffb6d9" />
 </div>
 
-## 📈 Grafik Aktivitas
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=flufunic&bg_color=2d1020&color=ff85c0&line=ff69b4&point=ffffff&area_color=ff69b4&area=true&hide_border=true&custom_title=Aktivitas%20Kontribusi" />
 
 ## 🐍 Ular Pemakan Kontribusi
 
