@@ -13,11 +13,15 @@
 
 ## 🌷 Tentang Saya
 
-👩‍💻 **Nama:** Emma Sarkilla
-📍 **Lokasi:** Cilacap, Indonesia 🇮🇩
-🎯 **Fokus:** Web Development
-🌱 **Sedang belajar:** Laravel & React
-🎧 **Fun fact:** Bisa ngoding sambil dengerin lagu sepanjang hari
+<div align="center">
+
+👩‍💻 **Emma Sarkilla** · 📍 Cilacap, Indonesia 🇮🇩
+
+🎯 Web Development · 🌱 Belajar Laravel & React
+
+🎧 Bisa ngoding sambil dengerin lagu sepanjang hari
+
+</div>
 
 ## 🎀 Tech Stack
 
