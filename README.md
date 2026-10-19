@@ -45,9 +45,9 @@
 ## 💌 Hubungi Saya
 
 <div align="center">
-  <a href="https://linkedin.com/in/flufunic"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-ff85c0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/flufunic"><img src="https://img.shields.io/badge/Instagram-c2185b?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/emma-sarkilla-5097832a2"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sarkillaemma@gmail.com"><img src="https://img.shields.io/badge/Email-ff85c0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/emsarrr_"><img src="https://img.shields.io/badge/Instagram-c2185b?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ac9,50:ff69b4,100:c2185b&height=120&section=footer" />
