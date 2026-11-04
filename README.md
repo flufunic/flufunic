@@ -1,57 +1,138 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ac9,50:ff69b4,100:c2185b&height=240&section=header&text=Flufunic&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Web%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=20" />
+
+<!-- ================= HEADER ================= -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Halo%2C+aku+Flufunic+%F0%9F%8C%B8;Suka+ngoding+dan+ngopi+%E2%98%95;Lagi+belajar+hal+baru+%F0%9F%92%97;Yuk+kolaborasi!+%F0%9F%8E%80)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120817,40:6D174A,100:FF4FA3&height=230&section=header&text=FLUFUNIC&fontSize=70&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=WEB%20DEVELOPER%20%2F%2F%20PROBLEM%20SOLVER&descAlignY=62&descSize=15" />
 
-<img src="https://komarev.com/ghpvc/?username=flufunic&style=for-the-badge&color=ff69b4&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/flufunic?style=for-the-badge&logo=github&color=ff85c0&labelColor=c2185b" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Emma+Sarkilla.;Building+digital+experiences.;Learning.+Creating.+Improving.;Turning+ideas+into+reality." />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=flufunic&style=flat-square&color=FF4FA3&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/flufunic?style=flat-square&color=FF4FA3&labelColor=120817&label=FOLLOWERS" />
 
 </div>
 
----
+<br/>
 
-## 🌷 Tentang Saya
+<!-- ================= ABOUT ================= -->
+
+## `01` — ABOUT ME
 
 <div align="center">
 
-👩‍💻 **Emma Sarkilla** · 📍 Cilacap, Indonesia 🇮🇩
+<table>
+<tr>
+<td width="100%" align="center">
 
-🎯 Web Development · 🌱 Belajar Laravel & React
+### Emma Sarkilla
 
-🎧 Bisa ngoding sambil dengerin lagu sepanjang hari
+**Web Developer | Informatics Graduate**
+
+Cilacap, Indonesia
+
+<br/>
+
+I enjoy building web applications, exploring new technologies,  
+and turning complex problems into simple solutions.
+
+Currently focusing on **Laravel & React**  
+and continuously improving my development skills.
+
+<br/>
+
+`CODE` &nbsp; `CREATE` &nbsp; `INNOVATE`
+
+</td>
+</tr>
+</table>
 
 </div>
 
-## 🎀 Tech Stack
+<br/>
+
+<!-- ================= TECH STACK ================= -->
+
+## `02` — TECH STACK
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,laravel,dart,flutter,git,github&theme=light" />
+
+**Languages & Frameworks**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,react,flutter,dart&theme=dark" />
+
+<br/><br/>
+
+**Tools & Environment**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma&theme=dark" />
+
 </div>
 
-## 📊 Statistik GitHub
+<br/>
+
+<!-- ================= GITHUB STATS ================= -->
+
+## `03` — GITHUB ANALYTICS
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=flufunic&show_icons=true&hide_border=true&bg_color=2d1020&title_color=ff69b4&icon_color=ff85c0&text_color=ffd6e8" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flufunic&layout=compact&hide_border=true&bg_color=2d1020&title_color=ff69b4&text_color=ffd6e8" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=flufunic&hide_border=true&background=2d1020&ring=ff69b4&fire=ff85c0&currStreakLabel=ff69b4&sideLabels=ffb6d9&currStreakNum=ffd6e8&sideNums=ffd6e8&dates=ffb6d9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=flufunic&show_icons=true&hide_border=true&bg_color=0D0812&title_color=FF69B4&icon_color=FF85C0&text_color=E8DCE5&ring_color=FF69B4" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flufunic&layout=compact&hide_border=true&bg_color=0D0812&title_color=FF69B4&text_color=E8DCE5" />
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=flufunic&hide_border=true&background=0D0812&ring=FF69B4&fire=FF85C0&currStreakLabel=FF69B4&sideLabels=E8DCE5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B8494" />
+
 </div>
 
+<br/>
 
-## 🐍 Ular Pemakan Kontribusi
+<!-- ================= CONTRIBUTION ================= -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flufunic/flufunic/output/snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/flufunic/flufunic/output/snake.svg" />
-</picture>
-
-## 💌 Hubungi Saya
+## `04` — CONTRIBUTION ACTIVITY
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/emma-sarkilla-5097832a2"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sarkillaemma@gmail.com"><img src="https://img.shields.io/badge/Email-ff85c0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/emsarrr_"><img src="https://img.shields.io/badge/Instagram-c2185b?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<img width="100%" src="https://raw.githubusercontent.com/flufunic/flufunic/output/snake-dark.svg" alt="Contribution Snake" />
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ac9,50:ff69b4,100:c2185b&height=120&section=footer" />
+<br/>
+
+<!-- ================= CONNECT ================= -->
+
+## `05` — LET'S CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/emma-sarkilla-5097832a2">
+<img src="https://img.shields.io/badge/LINKEDIN-120817?style=for-the-badge&logo=linkedin&logoColor=FF69B4" />
+</a>
+&nbsp;
+<a href="mailto:sarkillaemma@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-120817?style=for-the-badge&logo=gmail&logoColor=FF69B4" />
+</a>
+&nbsp;
+<a href="https://instagram.com/emsarrr_">
+<img src="https://img.shields.io/badge/INSTAGRAM-120817?style=for-the-badge&logo=instagram&logoColor=FF69B4" />
+</a>
+
+<br/><br/>
+
+### `KEEP CODING. KEEP GROWING.`
+
+<sub>Designed & developed with curiosity by Flufunic.</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,50:6D174A,100:120817&height=120&section=footer" />
