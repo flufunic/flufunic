@@ -3,9 +3,7 @@
 
 <!-- HERO SECTION -->
 
-<h1>
-  <span style="color:#FF8FC7">✦</span> flufunic
-</h1>
+<h1>✦ flufunic</h1>
 
 <h3>WEB DEVELOPER &nbsp; / &nbsp; PROBLEM SOLVER</h3>
 
@@ -21,11 +19,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=flufunic&style=flat-square&color=D477B4&label=PROFILE+VIEWS" />
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FC7,50:D9C2FF,100:A8D8FF&height=90&section=header" />
+
 </div>
 
-<br/>
-
 ---
+
+<!-- ABOUT ME -->
 
 <div align="center">
 
@@ -50,6 +52,7 @@ Currently exploring the Laravel and React ecosystem, improving my development sk
 I believe every project is an opportunity to learn something new.
 
 </td>
+
 <td width="35%" align="center" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=laravel,react,php,js&theme=light" />
@@ -76,9 +79,9 @@ Always Learning
 </tr>
 </table>
 
-<br/>
-
 ---
+
+<!-- TECH STACK -->
 
 <div align="center">
 
@@ -112,9 +115,9 @@ Always Learning
 
 </div>
 
-<br/>
-
 ---
+
+<!-- GITHUB ANALYTICS -->
 
 <div align="center">
 
@@ -138,25 +141,33 @@ Always Learning
 
 </div>
 
-<br/>
-
 ---
+
+<!-- PRINCESS SNAKE -->
 
 <div align="center">
 
-## 04 / CONTRIBUTION
+## 04 / MY CONTRIBUTION KINGDOM
 
-<sub>SMALL STEPS, CONSISTENT PROGRESS</sub>
+<sub>EVERY LITTLE COMMIT MAKES MAGIC HAPPEN</sub>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/flufunic/flufunic/output/snake.svg" width="100%" alt="Contribution Snake" />
+<img src="./assets/princess-snake.svg" width="100%" alt="Princess Snake wearing a pink crown and lavender cape" />
 
-</div>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/flufunic/flufunic/output/snake.svg" width="100%" alt="GitHub contribution snake" />
 
 <br/>
 
+<sub>THE PRINCESS OF COMMITS · RULING THE CODE KINGDOM</sub>
+
+</div>
+
 ---
+
+<!-- CONTACT -->
 
 <div align="center">
 
@@ -186,6 +197,6 @@ Always Learning
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FC7,50:D9C2FF,100:A8D8FF&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FC7,50:D9C2FF,100:A8D8FF&height=120&section=footer" />
 
 </div>
