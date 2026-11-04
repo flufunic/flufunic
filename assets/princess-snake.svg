@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300">
+  <defs>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFD1E6"/>
+      <stop offset="55%" stop-color="#FF8FC7"/>
+      <stop offset="100%" stop-color="#D9C2FF"/>
+    </linearGradient>
+    <linearGradient id="cape" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D9C2FF"/>
+      <stop offset="100%" stop-color="#FFB3D6"/>
+    </linearGradient>
+    <linearGradient id="gold">
+      <stop offset="0%" stop-color="#FFF0A8"/>
+      <stop offset="100%" stop-color="#E9B94F"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="300" rx="24" fill="#FFF5FA"/>
+
+  <!-- Background decoration -->
+  <g fill="#EBD5F5">
+    <circle cx="90" cy="70" r="9"/>
+    <circle cx="140" cy="70" r="9"/>
+    <circle cx="190" cy="70" r="9"/>
+    <circle cx="240" cy="70" r="9"/>
+    <circle cx="290" cy="70" r="9"/>
+    <circle cx="340" cy="70" r="9"/>
+    <circle cx="390" cy="70" r="9"/>
+    <circle cx="440" cy="70" r="9"/>
+    <circle cx="490" cy="70" r="9"/>
+    <circle cx="540" cy="70" r="9"/>
+    <circle cx="590" cy="70" r="9"/>
+    <circle cx="640" cy="70" r="9"/>
+    <circle cx="690" cy="70" r="9"/>
+    <circle cx="740" cy="70" r="9"/>
+    <circle cx="790" cy="70" r="9"/>
+    <circle cx="840" cy="70" r="9"/>
+    <circle cx="890" cy="70" r="9"/>
+  </g>
+
+  <!-- Sparkles -->
+  <g fill="#D477B4">
+    <path d="M120 130 L128 151 L150 159 L128 167 L120 188 L112 167 L90 159 L112 151Z"/>
+    <path d="M870 120 L877 138 L895 145 L877 152 L870 170 L863 152 L845 145 L863 138Z"/>
+    <path d="M500 225 L505 238 L518 243 L505 248 L500 261 L495 248 L482 243 L495 238Z"/>
+  </g>
+
+  <!-- Royal cape -->
+  <path d="M250 160 Q320 215 400 160
+           Q510 105 610 175
+           Q550 255 410 245
+           Q310 235 250 160Z"
+        fill="url(#cape)" opacity=".95"/>
+
+  <path d="M290 188 Q410 255 560 188"
+        fill="none" stroke="#FFFFFF" stroke-width="4" opacity=".8"/>
+
+  <!-- Snake body -->
+  <path d="M140 175 C230 90 320 245 430 165
+           S590 100 690 165 S810 230 855 145"
+        fill="none" stroke="#F5C8E1" stroke-width="52"
+        stroke-linecap="round"/>
+
+  <path d="M140 175 C230 90 320 245 430 165
+           S590 100 690 165 S810 230 855 145"
+        fill="none" stroke="url(#pink)" stroke-width="42"
+        stroke-linecap="round"/>
+
+  <!-- Snake head -->
+  <circle cx="855" cy="145" r="39" fill="#FF91C7"/>
+
+  <!-- Eyes -->
+  <ellipse cx="843" cy="143" rx="4" ry="6" fill="#54203F"/>
+  <ellipse cx="866" cy="143" rx="4" ry="6" fill="#54203F"/>
+
+  <!-- Smile -->
+  <path d="M847 160 Q855 169 864 160"
+        fill="none" stroke="#54203F"
+        stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Royal crown -->
+  <path d="M817 112 L809 65 L831 87 L855 42
+           L879 87 L901 65 L893 112Z"
+        fill="url(#gold)" stroke="#D4A344" stroke-width="3"/>
+
+  <rect x="817" y="108" width="76" height="12" rx="4"
+        fill="#F5C65C"/>
+
+  <circle cx="855" cy="87" r="7" fill="#FF69B4"/>
+  <circle cx="831" cy="91" r="4" fill="#FFFFFF"/>
+  <circle cx="879" cy="91" r="4" fill="#FFFFFF"/>
+
+  <!-- Crown jewel -->
+  <path d="M855 96 L848 104 L855 110 L862 104Z"
+        fill="#D477B4"/>
+
+  <!-- Royal title -->
+  <text x="500" y="35" text-anchor="middle"
+        font-family="Verdana, sans-serif"
+        font-size="16" font-weight="bold"
+        letter-spacing="5" fill="#B46A9B">
+    THE PRINCESS OF COMMITS
+  </text>
+
+  <text x="500" y="285" text-anchor="middle"
+        font-family="Verdana, sans-serif"
+        font-size="11" letter-spacing="3"
+        fill="#B78AA8">
+    PINK MAGIC · CODE &amp; CREATIVITY
+  </text>
+</svg>
