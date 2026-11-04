@@ -1,11 +1,10 @@
-name: Generate Snake
+
+name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
@@ -13,15 +12,18 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?color_snake=ff1493&color_dots=ffe4f0,ffc2dd,ff99c8,ff69b4,c2185b
-            dist/snake-dark.svg?color_snake=ff69b4&color_dots=2d1020,5c1f3d,8f2d5e,c2407f,ff69b4
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: flufunic
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
