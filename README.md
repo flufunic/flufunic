@@ -1,164 +1,166 @@
-
-<!-- =============== HERO =============== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080610,30:251027,65:8F2865,100:FF4FA3&height=260&section=header&text=Flufunic&fontSize=85&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=WEB%20DEVELOPER%20%20%7C%20%20PROBLEM%20SOLVER&descSize=16&descAlignY=65&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FC7,35:FFB3D6,65:D9C2FF,100:A8D8FF&height=300&section=header&text=flufunic&fontSize=96&fontColor=2B1022&fontAlignY=40&animation=twinkling&desc=web%20developer%20%2F%20problem%20solver&descSize=20&descColor=4A1D3A&descAlignY=64" alt="flufunic" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Emma+Sarkilla.;I+build+things+for+the+web.;Code.+Create.+Innovate.;Always+exploring+something+new." />
+<br/>
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="38" alt="" />
+&nbsp;
+<b>hi, i'm emma! i build web apps that feel simple and happy to use.</b>
+&nbsp;
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="38" alt="" />
 
 <br/><br/>
 
-<a href="https://github.com/flufunic">
-<img src="https://komarev.com/ghpvc/?username=flufunic&style=for-the-badge&color=9D397A&label=VISITORS" />
-</a>
-<img src="https://img.shields.io/github/followers/flufunic?style=for-the-badge&color=9D397A&labelColor=100A16&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/based%20in-cilacap-2B1022?style=for-the-badge&labelColor=FF4FA3" />
+<img src="https://img.shields.io/badge/status-always%20learning-2B1022?style=for-the-badge&labelColor=A855F7" />
+<img src="https://img.shields.io/badge/focus-laravel%20%2B%20react-2B1022?style=for-the-badge&labelColor=38BDF8" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4FA3,33:C8A2FF,66:8EC9FF,100:FFB48A&height=4" alt="" />
 
 </div>
 
 <br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FC7,100:D9C2FF&height=60&text=about%20me&fontSize=24&fontColor=2B1022&fontAlign=8&fontAlignY=52&animation=scaleIn" alt="about me" />
 
-<!-- =============== ABOUT =============== -->
-
-<div align="center">
-
-## ABOUT ME
-
-*GET TO KNOW THE DEVELOPER BEHIND THE CODE*
-
-</div>
+<br/>
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 ### Emma Sarkilla
 
-`WEB DEVELOPER` &nbsp; `INFORMATICS GRADUATE`
+Informatics graduate and web developer. I enjoy turning rough ideas into
+working, thoughtful products, and I learn best by building them.
 
-I'm a developer who enjoys transforming ideas into functional and meaningful digital experiences.
-
-Currently exploring web technologies, building applications, and learning new things along the way.
-
-**CURRENT FOCUS**
-
-- Web Application Development
-- Laravel & React Ecosystem
-- Problem Solving & Clean Code
+Right now I'm going deeper into the **Laravel** and **React** ecosystem,
+with an eye on clean, readable code and solving problems properly instead of
+quickly.
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="40%" valign="middle" align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,react,php,js&theme=dark" />
-
-<br/><br/>
-
-**LOCATION**
-
-Cilacap, Indonesia
-
+<img src="https://img.shields.io/badge/role-web%20developer-2B1022?style=for-the-badge&labelColor=FF4FA3" />
 <br/>
-
-**STATUS**
-
-Always Learning
+<img src="https://img.shields.io/badge/education-informatics-2B1022?style=for-the-badge&labelColor=A855F7" />
+<br/>
+<img src="https://img.shields.io/badge/location-cilacap%2C%20id-2B1022?style=for-the-badge&labelColor=38BDF8" />
+<br/>
+<img src="https://img.shields.io/badge/now-clean%20code-2B1022?style=for-the-badge&labelColor=FB923C" />
 
 </td>
 </tr>
 </table>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4FA3,33:C8A2FF,66:8EC9FF,100:FFB48A&height=4" alt="" />
+
 <br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D9C2FF,100:A8D8FF&height=60&text=tech%20stack&fontSize=24&fontColor=2B1022&fontAlign=8&fontAlignY=52&animation=scaleIn" alt="tech stack" />
 
-<!-- =============== TECH STACK =============== -->
+<br/>
 
 <div align="center">
 
-## TECHNOLOGIES
-
-*TOOLS I USE TO BRING IDEAS TO LIFE*
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,react,dart,flutter,mysql&theme=dark&perline=5" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<table>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/frontend-2B1022?style=for-the-badge&labelColor=FF4FA3&color=FF4FA3" /></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=react,js,html,css&theme=light" /></td>
+</tr>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/backend-2B1022?style=for-the-badge&labelColor=A855F7&color=A855F7" /></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=laravel,php,python&theme=light" /></td>
+</tr>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/mobile-2B1022?style=for-the-badge&labelColor=FB923C&color=FB923C" /></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" /></td>
+</tr>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/database-2B1022?style=for-the-badge&labelColor=38BDF8&color=38BDF8" /></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=mysql&theme=light" /></td>
+</tr>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/tools-2B1022?style=for-the-badge&labelColor=34D399&color=34D399" /></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light" /></td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
----
-
-<!-- =============== STATS =============== -->
-
-<div align="center">
-
-## GITHUB ANALYTICS
-
-*NUMBERS, CONTRIBUTIONS & DEVELOPMENT ACTIVITY*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4FA3,33:C8A2FF,66:8EC9FF,100:FFB48A&height=4" alt="" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=flufunic&show_icons=true&hide_border=true&bg_color=0B0811&title_color=FF69B4&icon_color=FF69B4&text_color=EADDE8&include_all_commits=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB48A,100:FF8FC7&height=60&text=activity&fontSize=24&fontColor=2B1022&fontAlign=8&fontAlignY=52&animation=scaleIn" alt="activity" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flufunic&layout=compact&hide_border=true&bg_color=0B0811&title_color=FF69B4&text_color=EADDE8&langs_count=6" />
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=flufunic&hide_border=true&background=135,FFE4F1,E6D9FF&ring=FF4FA3&fire=FB923C&currStreakLabel=A855F7&sideLabels=5A2745&currStreakNum=2B1022&sideNums=2B1022&dates=9B7A92" width="85%" alt="GitHub streak" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=flufunic&hide_border=true&background=0B0811&ring=FF69B4&fire=FF85C0&currStreakLabel=FF69B4&sideLabels=EADDE8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B8494" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=flufunic&bg_color=FFF0F7&color=A855F7&line=FF4FA3&point=2B1022&area=true&area_color=D9C2FF&hide_border=true&radius=14&title_color=A855F7" width="100%" alt="Contribution activity graph" />
 
 </div>
 
 <br/>
 
----
-
-<!-- =============== CONTRIBUTIONS =============== -->
-
-<div align="center">
-
-## CONTRIBUTION MATRIX
-
-*EVERY COMMIT IS A STEP FORWARD*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4FA3,33:C8A2FF,66:8EC9FF,100:FFB48A&height=4" alt="" />
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/flufunic/flufunic/output/snake-dark.svg" alt="Contribution Snake" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C8A2FF,100:FF8FC7&height=60&text=contribution%20snake&fontSize=24&fontColor=2B1022&fontAlign=8&fontAlignY=52&animation=scaleIn" alt="contribution snake" />
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/flufunic/flufunic/output/snake.svg" width="100%" alt="Snake eating my contributions" />
+
+<br/>
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f338/512.gif" width="34" alt="" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98b/512.gif" width="34" alt="" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="34" alt="" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" width="34" alt="" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f33c/512.gif" width="34" alt="" />
 
 </div>
 
 <br/>
 
----
-
-<!-- =============== CONTACT =============== -->
-
-<div align="center">
-
-## LET'S CONNECT
-
-*HAVE AN IDEA? LET'S BUILD SOMETHING GREAT.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4FA3,33:C8A2FF,66:8EC9FF,100:FFB48A&height=4" alt="" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/emma-sarkilla-5097832a2">
-<img src="https://img.shields.io/badge/LINKEDIN-17101C?style=for-the-badge&logo=linkedin&logoColor=FF69B4&labelColor=17101C" />
-</a>
-<a href="mailto:sarkillaemma@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-17101C?style=for-the-badge&logo=gmail&logoColor=FF69B4&labelColor=17101C" />
-</a>
-<a href="https://instagram.com/emsarrr_">
-<img src="https://img.shields.io/badge/INSTAGRAM-17101C?style=for-the-badge&logo=instagram&logoColor=FF69B4&labelColor=17101C" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FC7,100:A8D8FF&height=60&text=let%27s%20connect&fontSize=24&fontColor=2B1022&fontAlign=8&fontAlignY=52&animation=scaleIn" alt="let's connect" />
+
+<br/>
+
+<div align="center">
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98b/512.gif" width="40" alt="" />
+&nbsp;
+Have an idea? Let's build something good together.
+&nbsp;
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" width="40" alt="" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,40:8F2865,100:080610&height=150&section=footer&text=KEEP%20CODING.%20KEEP%20GROWING.&fontSize=19&fontColor=ffffff&fontAlignY=65" />
+<a href="https://www.linkedin.com/in/emma-sarkilla-5097832a2"><img src="https://img.shields.io/badge/linkedin-emma%20sarkilla-2B1022?style=for-the-badge&labelColor=38BDF8" /></a>
+<a href="mailto:sarkillaemma@gmail.com"><img src="https://img.shields.io/badge/email-sarkillaemma-2B1022?style=for-the-badge&labelColor=FF4FA3" /></a>
+<a href="https://instagram.com/emsarrr_"><img src="https://img.shields.io/badge/instagram-%40emsarrr__-2B1022?style=for-the-badge&labelColor=A855F7" /></a>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A8D8FF,35:D9C2FF,70:FFB3D6,100:FF8FC7&height=160&section=footer&text=keep%20coding.%20keep%20growing.&fontSize=20&fontColor=2B1022&fontAlignY=66&animation=twinkling" alt="" />
 
 </div>
